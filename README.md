@@ -10,4 +10,4 @@ After 3 weeks, you will:
 
 This is the second course of the Deep Learning Specialization.
 
-—Coursera
+— Coursera
